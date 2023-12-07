@@ -10,7 +10,7 @@ And it will be be used for studying purposes only.
 
 MASTODON ANALYSIS
 
-User Goals To build an analysis of selected hashtags picked from the tredings topics on twitter over the last 30 days according to: .
+User Goals To build an analysis of selected hashtags picked from the tredings topics on twitter over the last 30 days according to: https://www.twitter-trending.com/worldwide/statistics.
 
 Key Features
 
